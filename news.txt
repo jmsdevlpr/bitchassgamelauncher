@@ -1,7 +1,6 @@
 Launcher News: 
   • Launcher now gets games from the cloud resulting in fewer updates.
-  • Launcher now has a more dynamic download system including the UI and overall system.
-
+  • Launcher now has a more dynamic download UI.
 Game News:
   • Silly Rausage has been discontinued.
-  • Silly Rausage: Zombies' release date has officially been announced.
+  • Silly Rausage: Zombies' release date announced.
