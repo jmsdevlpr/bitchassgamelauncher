@@ -9,7 +9,7 @@
         "ExecutablePath": "Silly Rausage.exe",
         "MinSpecs": "CPU: Intel Core i5-4th gen, RAM: 8GB, GPU: GTX 1660",
         "Released": true,
-        "ReleaseDate": "2025-2-21"
+        "ReleaseDate": "21/2/2025"
     },
     {
         "Title": "Silly Rausage: Zombies",
@@ -21,6 +21,6 @@
         "ExecutablePath": "Silly Rausage Zombies.exe",
         "MinSpecs": "CPU: Intel Core i5-4th gen, RAM: 8GB, GPU: GTX 1660",
         "Released": false,
-        "ReleaseDate": "2025-5-5"
+        "ReleaseDate": "5/5/2025"
     }
 ]
