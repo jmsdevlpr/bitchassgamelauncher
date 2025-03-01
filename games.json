@@ -36,6 +36,6 @@
     "MinSpecs": "CPU: Intel Core i5-4th gen, RAM: 8GB, GPU: GTX 1660",
     "Released": false,
     "ReleaseDate": "5/7/2025",
-    "CanBePlayed": false
+    "CanBePlayed": true
   }
 ]
