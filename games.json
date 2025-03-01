@@ -13,8 +13,8 @@
     "CanBePlayed": true
   },
   {
-    "Title": "Silly Rausage: Zombies",
-    "Description": "Fight off zombies with that fat cock of yours.",
+    "Title": "Silly Rausage: Zombies and BE",
+    "Description": "Fight off zombies with that fat cock of yours or have a crazy multiplayer battle royale expierenececeg",
     "ImageUrl": "https://github.com/jmsdevlpr/sillyrausage-zombies/blob/main/banner.jpg?raw=true",
     "VersionFileUrl": "https://raw.githubusercontent.com/jmsdevlpr/sillyrausage-zombies/refs/heads/main/version.txt",
     "InstallUrlFile": "https://raw.githubusercontent.com/jmsdevlpr/sillyrausage-zombies/refs/heads/main/install_url.txt",
@@ -22,20 +22,7 @@
     "ExecutablePath": "Silly Rausage Zombies.exe",
     "MinSpecs": "CPU: Intel Core i5-4th gen, RAM: 8GB, GPU: GTX 1660",
     "Released": false,
-    "ReleaseDate": "5/5/2025",
-    "CanBePlayed": false
-  },
-  {
-    "Title": "Silly Rausage Battle Royale",
-    "Description": "Play with your pals and suck them off so hard with a blicky. (Game may not be released)",
-    "ImageUrl": "https://github.com/jmsdevlpr/sillyrausage-zombies/blob/main/banner.jpg?raw=true",
-    "VersionFileUrl": "https://raw.githubusercontent.com/jmsdevlpr/sillyrausage-zombies/refs/heads/main/version.txt",
-    "InstallUrlFile": "https://raw.githubusercontent.com/jmsdevlpr/sillyrausage-zombies/refs/heads/main/install_url.txt",
-    "UpdateUrlFile": "https://raw.githubusercontent.com/jmsdevlpr/sillyrausage-zombies/refs/heads/main/update_url.txt",
-    "ExecutablePath": "Silly Rausage FPS.exe",
-    "MinSpecs": "CPU: Intel Core i5-4th gen, RAM: 8GB, GPU: GTX 1660",
-    "Released": false,
-    "ReleaseDate": "5/7/2025",
+    "ReleaseDate": "1/3/2026 (Beta will be released earlier)",
     "CanBePlayed": false
   }
 ]
