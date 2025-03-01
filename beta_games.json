@@ -1,1 +1,15 @@
-
+[
+  {
+    "Title": "Silly Rausage: Zombies and BR (Beta)",
+    "Description": "Fight off zombies with that fat cock of yours.",
+    "ImageUrl": "https://github.com/jmsdevlpr/sillyrausage-zombies/blob/main/banner.jpg?raw=true",
+    "VersionFileUrl": "https://raw.githubusercontent.com/jmsdevlpr/sillyrausage-zombies/refs/heads/main/version.txt",
+    "InstallUrlFile": "https://raw.githubusercontent.com/jmsdevlpr/sillyrausage-zombies/refs/heads/main/install_url.txt",
+    "UpdateUrlFile": "https://raw.githubusercontent.com/jmsdevlpr/sillyrausage-zombies/refs/heads/main/update_url.txt",
+    "ExecutablePath": "Silly Rausage Zombies.exe",
+    "MinSpecs": "CPU: Intel Core i5-4th gen, RAM: 8GB, GPU: GTX 1660",
+    "Released": false,
+    "ReleaseDate": "10/4/2025",
+    "CanBePlayed": false
+  }
+]
