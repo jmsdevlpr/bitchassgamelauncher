@@ -1,6 +1,5 @@
 Launcher News: 
-  • Launcher now gets games from the cloud resulting in fewer updates.
-  • Launcher now has a more dynamic download UI.
+  • Launcher has been rebranded to 'BAG Launcher'.
 Game News:
   • Silly Rausage has been discontinued.
-  • Silly Rausage: Zombies' release date announced.
+  • Silly Rausage: Zombies and BR release date announced.
