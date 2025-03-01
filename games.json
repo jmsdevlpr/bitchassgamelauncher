@@ -37,18 +37,5 @@
     "Released": false,
     "ReleaseDate": "5/7/2025",
     "CanBePlayed": false
-  },
-  {
-    "Title": "Smegma Simulator",
-    "Description": "",
-    "ImageUrl": "",
-    "VersionFileUrl": "",
-    "InstallUrlFile": "",
-    "UpdateUrlFile": "",
-    "ExecutablePath": "",
-    "MinSpecs": "",
-    "Released": false,
-    "ReleaseDate": "",
-    "CanBePlayed": false
   }
 ]
