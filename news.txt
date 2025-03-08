@@ -1,6 +1,5 @@
 Launcher News: 
-  • Launcher has been rebranded to 'BAG Launcher'.
-  • Website has been created.
+  • Launcher has been slightly redesigned.
+  • Several bugs have been fixed.
 Game News:
-  • Silly Rausage has been discontinued.
-  • Silly Rausage: Zombies and BR release date announced.
+  • Drill the Opps PT1 released.
